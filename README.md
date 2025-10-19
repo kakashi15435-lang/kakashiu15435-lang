@@ -4,3 +4,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-DeepLearning-red?logo=pytorch)
 ![LangChain](https://img.shields.io/badge/LangChain-RAG-green?logo=chainlink)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-brightgreen?logo=streamlit)
+
+![Swapnanil's GitHub stats](https://github-readme-stats.vercel.app/api?username=swapnanildas1752&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swapnanildas1752&layout=compact&theme=tokyonight)
+
