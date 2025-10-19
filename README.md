@@ -8,3 +8,16 @@
 ![Swapnanil's GitHub stats](https://github-readme-stats.vercel.app/api?username=swapnanildas1752&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swapnanildas1752&layout=compact&theme=tokyonight)
 
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=swapnanildas1752&theme=tokyonight)
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/swapnanildas)
+[![Gmail](https://img.shields.io/badge/Email-swapnanildas1752@gmail.com-red?logo=gmail)](mailto:swapnanildas1752@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-lightgrey?logo=google-chrome)](#)
+
+---
+⭐️ From [Swapnanil Das](https://github.com/swapnanildas1752)
+
+![](https://komarev.com/ghpvc/?username=swapnanildas1752&color=blueviolet&style=flat-square)
+
