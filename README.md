@@ -1,3 +1,10 @@
+
+
+<img width="1185" height="345" alt="image" src="https://github.com/user-attachments/assets/19646521-7404-42fb-95bd-b9ad6963a8d5" />
+
+
+
+
 # kakashiu15435-lang
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![C++](https://img.shields.io/badge/C++-17-orange?logo=c%2B%2B)
