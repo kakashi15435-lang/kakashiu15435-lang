@@ -22,6 +22,26 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=swapnanildas1752&theme=tokyonight)
 
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=swapnanildas&show_icons=true&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=swapnanildas&theme=tokyonight&hide_border=true)
+
+![Swapnanil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=swapnanildas&show_icons=true&count_private=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swapnanildas&layout=compact&theme=radical)
+
+![Commits](https://img.shields.io/badge/Commits-Active-blueviolet)
+![Projects](https://img.shields.io/badge/Projects-Growing-brightgreen)
+![Learning](https://img.shields.io/badge/Focus-ML%20%7C%20AI-orange)
+
+### 🔥 Swapnanil's GitHub Activity
+
+- ⭐ Stars: **0**
+- 📌 Commits (last year): **8**
+- 🔁 Pull Requests: **0**
+- 🐛 Issues: **0**
+- 🤝 Contributions (last year): **0**
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/swapnanildas)
 [![Gmail](https://img.shields.io/badge/Email-swapnanildas1752@gmail.com-red?logo=gmail)](mailto:swapnanildas1752@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-lightgrey?logo=google-chrome)](#)
