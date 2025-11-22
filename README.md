@@ -41,6 +41,11 @@
 - 🐛 Issues: **0**
 - 🤝 Contributions (last year): **0**
 
+- <p align="center">
+  <img src="/mnt/data/Screenshot 2025-11-22 at 3.12.26 PM.png" width="420" style="border-radius:12px;">
+</p>
+
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/swapnanildas)
 [![Gmail](https://img.shields.io/badge/Email-swapnanildas1752@gmail.com-red?logo=gmail)](mailto:swapnanildas1752@gmail.com)
